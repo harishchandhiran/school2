@@ -1,0 +1,33 @@
+h1 {
+    border: solid;
+    font: 35px Arial, Times New Roman;
+    text-align: center;
+    color: brown;
+}
+
+h2 {
+    color: saddlebrown;
+    text-align: center;
+    border: solid;
+}
+
+h5 {
+    font: 20px Arial, Monolithic;
+    color: black;
+    text-align: center;
+    border: solid;
+}
+
+a {
+    border: solid;
+    color: navy;
+    font: 30px Arial;
+}
+
+.header {
+    border: solid;
+}
+
+img {
+    border: solid;
+}
